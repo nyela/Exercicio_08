@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Django
+=======
+Django
+>>>>>>> c81d7e217ee7069b084ab04175feb9c2ff14c6dc
